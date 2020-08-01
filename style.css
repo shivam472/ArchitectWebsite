@@ -879,10 +879,10 @@ html{
         transition: right .7s;
     }
     .change .hamburger-menu{
-        right: 41rem;
+        right: 50rem;
     }
     .social-media{
-        bottom: 10rem;
+        bottom: 7rem;
     }
 
     .service{
