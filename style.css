@@ -301,7 +301,7 @@ html{
     right: 0;
 }
 .change .hamburger-menu{
-    right: 33rem;
+    right: 35rem;
 }
 .menu{
     position: absolute;
@@ -878,7 +878,7 @@ html{
         right: 41rem;
     }
     .social-media{
-        bottom: 7rem;
+        bottom: 10rem;
     }
 
     .service{
