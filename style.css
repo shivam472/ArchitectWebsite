@@ -35,7 +35,7 @@ html{
     position: relative;
     opacity: 0;
     visibility: hidden;
-    animation: displayCircles 3s;
+    animation: displayCircles 2s;
 }
 @keyframes displayCircles{
     0%{
@@ -186,7 +186,7 @@ html{
     letter-spacing: 0.1rem;
     opacity: 0;
     visibility: hidden;
-    transition: all .2s ease .3s;
+    transition: all .2s ease .25s;
 }
 .change .hamburger-menu:hover span{
     opacity: 1;
@@ -875,7 +875,10 @@ html{
         right: -100%;
     }
     .change .hamburger-menu{
-        right: 38rem;
+        right: 41rem;
+    }
+    .social-media{
+        bottom: 7rem;
     }
 
     .service{
