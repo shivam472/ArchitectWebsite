@@ -874,6 +874,7 @@ html{
         width: 100%;
         right: -100%;
         height: 100vh;
+        overflow: hidden;
     }
     .hamburger-menu{
         transition: right .7s;
